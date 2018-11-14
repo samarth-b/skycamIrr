@@ -1,0 +1,31 @@
+# Site Settings
+title:               Cognitive Machine Vision
+tagline:
+description:         machine vision solutions for industry applications
+baseurl:            /cognitive-machine-vision #"/Lagrange"
+url:                https://pages.github.ibm.com #"https://lenpaul.github.io"
+github:
+  url:              https://pages.github.ibm.com/cognitive-machine-vision #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Samarth Bharadwaj"
+  org:              "IBM Research India"
+  email:             "samarth.b@in.ibm.com"
+  twitter:           "samarth_b"
+  instagram:         ""
+  github:            "https://github.ibm.com/cognitive-machine-vision/"
+  facebook:          ""
+  linkedin:          "/samarthbh/"
+navigation:
+- title: About
+  url: /about
+- title: Archives
+  url: /Archives
+
+paginate:            5
+disqus:              irlcmv #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
