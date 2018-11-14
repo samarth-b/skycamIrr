@@ -1,18 +1,18 @@
 # Site Settings
-title:               Cognitive Machine Vision
+title:               A deep learning approach to solar-irradiance forecasting in sky-videos
 tagline:
-description:         machine vision solutions for industry applications
-baseurl:            /cognitive-machine-vision #"/Lagrange"
-url:                https://pages.github.ibm.com #"https://lenpaul.github.io"
+description:         A deep learning approach to solar-irradiance forecasting in sky-videos
+baseurl:             #"/Lagrange"
+url:               https://samarth-b.github.io/ #"https://lenpaul.github.io"
 github:
-  url:              https://pages.github.ibm.com/cognitive-machine-vision #"https://lenpaul.github.io/Lagrange"
+  url:              https://samarth-b.github.io/skycamIrr/ #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Samarth Bharadwaj"
   org:              "IBM Research India"
   email:             "samarth.b@in.ibm.com"
   twitter:           "samarth_b"
   instagram:         ""
-  github:            "https://github.ibm.com/cognitive-machine-vision/"
+  github:            "https://github.com/samarth-b/skycamIrr"
   facebook:          ""
   linkedin:          "/samarthbh/"
 navigation:
@@ -22,7 +22,7 @@ navigation:
   url: /Archives
 
 paginate:            5
-disqus:              irlcmv #"your-disqus"
+disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
