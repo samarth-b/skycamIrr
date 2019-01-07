@@ -17,7 +17,7 @@
       <!-- <a href="https://drive.google.com/file/d/1fKMXoaWLJaR985eILwY1nfaxXB2x7x5Y/view?usp=sharing" class="btn">View Paper</a> -->
       <a href="https://drive.google.com/file/d/1fKMXoaWLJaR985eILwY1nfaxXB2x7x5Y/view?usp=sharing" class="btn">View Paper on Solar <br>Irradiance forecasting (WACV' 19)</a>
       <a href="https://arxiv.org/abs/1812.10786" class="btn">View Paper on Sky Video <br>Semantic Segmentation (arxiv.org)</a>
-      <a href="#" class="btn">Data <br>(releasing soon)</a>
+      <a href="https://github.com/samarth-b/skycamIrr/" class="btn">Data <br>(releasing soon)</a>
     </section>
 
     <section class="main-content">
