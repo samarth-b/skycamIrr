@@ -1,0 +1,1 @@
+This is the project page for our paper titled "A deep learning approach to solar-irradiance forecasting in sky-videos". For further information please contact Talha Siddiqui(tsiddiqu@andrew.cmu.edu) or Samarth Bharadwaj(samarth.b@in.ibm.com).
