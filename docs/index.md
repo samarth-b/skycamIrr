@@ -21,6 +21,7 @@
     </section>
 
     <section class="main-content">
+    [![WACV'19 presentation](http://img.youtube.com/vi/GCMtjtbb0io/0.jpg)](http://www.youtube.com/watch?v=GCMtjtbb0io "WACV'19 presentation")
 
       <p>
         Production of alternative energy sources, such as solar energy, are governed by the vagaries of weather. <a href="http://www.e-hub.org/the-challenge.html">For instance</a>, indoor heating demands are inversely correlated with solar radiation availability. The important question is how does one estimate solar energy production efficiently in order to solve the demand-supply mismatch in alternate energy.
