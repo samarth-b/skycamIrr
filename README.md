@@ -5,4 +5,6 @@ Also check out our new work on future frame semantic segmentation that [is avail
 
 For further information please contact [Talha Siddiqui](mailto:tsiddiqu@andrew.cmu.edu) or [Samarth Bharadwaj](mailto:samarth.b@in.ibm.com).
 
+Our presentation at WACV'19:
+
 [![WACV'19 presentation](http://img.youtube.com/vi/GCMtjtbb0io/0.jpg)](http://www.youtube.com/watch?v=GCMtjtbb0io "WACV'19 presentation")
